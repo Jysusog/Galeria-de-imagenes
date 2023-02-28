@@ -131,7 +131,6 @@ body{
     size: cover;
 }
 .container .item:hover{
-    filter: opacity(0.9);
     transform: scale(1.01);
 }
 .ancho{
